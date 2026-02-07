@@ -1,7 +1,8 @@
 # ModeOnDmg
-Addon that monitor if you have taken damage during the last x- seconds. Sends cusotm Safe or Combat commands based ib state,
+Addon that monitor for incoming melee/RA/WS-attacks during the last x-seconds. Sends custom "Safe" or "Combat" commands based on current state,
 
 Can be used for autoswapping into DT gear when being attacked.
+Or toggeling phalanx potency vs DT moode.
 
 Refresh in normnal idle:
 
